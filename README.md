@@ -106,13 +106,13 @@ royal-rajasthan-site
 
 ### 📍 Tourist Places
 
-<img src="images/places.png" alt="Tourist Places" width="90%">
+<img src="images/place_to_visit.png" alt="Tourist Places" width="90%">
 
 <br><br>
 
 ### 🖼️ Photo Gallery
 
-<img src="images/gallery.png" alt="Photo Gallery" width="90%">
+<img src="images/photo_gallery.png" alt="Photo Gallery" width="90%">
 
 </div>
 
@@ -161,19 +161,6 @@ This project helped me strengthen my understanding of:
 - User Interface Design
 - Website Structure & Organization
 - Frontend Development Best Practices
-
----
-
-# 🚀 Future Enhancements
-
-Some features that can be added in the future:
-
-- 🗺️ Interactive Rajasthan Map
-- 🔍 Search Tourist Destinations
-- 🌦️ Live Weather Information
-- ⭐ Tourist Reviews & Ratings
-- 📍 Google Maps Integration
-- 🌐 Multi-language Support
 
 ---
 
